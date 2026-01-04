@@ -11,14 +11,14 @@ layout: default
 ## Class Information
 
 | Item                   |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Schedule               | Tuesdays 6:00 - 7:00 PM Eastern                                                                             |
-| Location               | Zoom. Details on Carmen                                                                                     |
-| Professor              | Brad Coy / coy DOT 48 AT osu DOT edu                                                                        |
-| Professor Office Hours | Thursdays 6:00 - 7:00 PM Eastern. Details on Carmen. Please contact me ahead of time if you plan to attend. |
-| TA                     | Not applicable                                                                                              |
-| TA Office Hours        | Not applicable                                                                                              |
-| Slack Link             | Not applicable                                                                                              |
+| ---------------------- | ---------------------------------------------------- |
+| Schedule               | Tuesdays 6:00 - 7:00 PM Eastern                      |
+| Location               | Zoom. Details on Carmen                              |
+| Professor              | Brad Coy / coy DOT 48 AT osu DOT edu                 |
+| Professor Office Hours | Thursdays 6:00 - 7:00 PM Eastern. Details on Carmen. |
+| TA                     | Not applicable                                       |
+| TA Office Hours        | Not applicable                                       |
+| Slack Link             | Not applicable                                       |
 
 ## Description:
 
