@@ -18,7 +18,6 @@ layout: default
 | Professor Office Hours | Thursdays 6:00 - 7:00 PM Eastern. Details on Carmen. |
 | TA                     | Not applicable                                       |
 | TA Office Hours        | Not applicable                                       |
-| Slack Link             | Not applicable                                       |
 
 ## Description:
 
