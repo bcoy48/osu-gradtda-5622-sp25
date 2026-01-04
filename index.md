@@ -6,7 +6,7 @@ layout: default
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
 
-# SPRING 2025
+# SPRING 2026
 
 ## Class Information
 
@@ -16,14 +16,14 @@ layout: default
 | Location               | Zoom. Details on Carmen                                                                                     |
 | Professor              | Brad Coy / coy DOT 48 AT osu DOT edu                                                                        |
 | Professor Office Hours | Thursdays 6:00 - 7:00 PM Eastern. Details on Carmen. Please contact me ahead of time if you plan to attend. |
-| TA                     | TBD                                                                                                         |
-| TA Office Hours        | TBD                                                                                                         |
-| Slack Link             | See email invite and/or details on Carmen.                                                                  |
+| TA                     | Not applicable                                                                                              |
+| TA Office Hours        | Not applicable                                                                                              |
+| Slack Link             | Not applicable                                                                                              |
 
 ## Description:
 
-This class aims to introduce ways to mine and analyze data for people that are data related fields but are not necessarily computer scientists or data scientists. This webpage will serve as a source of content for the course and will eventually house the homeworks and project code files.
-It is highly encouraged that you simply fork this entire repo and then just sync updates periodically. This will provide you the easiest access to all the updated code at once. For more information on this process, you can see the documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+This class aims to introduce ways to mine and analyze data for people who are in data related fields but are not necessarily computer scientists or data scientists. This webpage will serve as a source of content for the course, including homework and project files.
+It is highly encouraged that you simply fork this entire repo and then periodically sync updates. This will provide you the easiest access to all the updated code at once. For more information on this process, you can see the documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ## Github Repository Details
 
@@ -120,6 +120,6 @@ There might be tentative bonus points assigned for harder math or cs problems. M
 
 </table>
 
-#### Site created by Greg Ryslik (gryslik) for Spring 2024 term. Adapted for Spring 2025 term.
+#### Site created by Greg Ryslik (gryslik) for Spring 2024 term. Adapted by Brad Coy (bcoy48) for Spring 2025, 2026 terms.
 
 {{ page.last_modified_at }}
